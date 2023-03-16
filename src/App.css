@@ -1,0 +1,31 @@
+
+.main{display: flex; flex-direction: row; flex-wrap: wrap; background-color: rgb(12, 12, 12);justify-content: space-between;
+  align-items: center;}
+ .c{ display: flex;flex-direction: column;padding:1rem} 
+ .c input {background-color:goldenrod;color:black;
+}
+
+
+
+.aa{font-size: 3rem; color: goldenrod; background-color: azure; border-radius: 1rem;
+
+
+
+}
+.number{font-size: 2rem;margin-left: 8rem;}
+
+
+.logo img{width: 5rem; border-radius: 10rem; padding: 1rem;}
+.app{background-color:black; color: aliceblue;}
+.con{border-color:aliceblue; display:grid;grid-template-columns: repeat(4,1fr);padding-left: 3rem;
+}
+
+.con input{ width: 5rem; border: none;
+  border-bottom: 2px solid goldenrod; background-color: black; color: aliceblue;}
+.Heading{text-align: center; font-size: large; color: aliceblue;}
+.total{text-align: center; padding:1rem;}
+.total h4{border-bottom: 2px solid goldenrod; background-color: black; color: aliceblue;}
+.insta h1{text-align: center;}
+.insta p{margin: 1rem;}
+.btn{padding: 0.3rem;justify-content: end;}
+ 
